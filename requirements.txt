@@ -4,4 +4,3 @@ python-multipart
 pillow
 tensorflow
 numpy
-guvicorn
