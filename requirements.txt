@@ -1,6 +1,7 @@
 fastapi
-uvicorn[standard]
-python-multipart
-pillow
-tensorflow
+uvicorn
+tensorflow==2.13.0
 numpy
+pillow
+requests
+python-multipart
